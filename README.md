@@ -106,3 +106,12 @@ SET IDENTITY_INSERT  Finalreports OFF
 star Debuggins en Hospital.Entity
 
 ```
+
+## Patrones de Diseño
+
+```
+• Transient: las dependencias son creadas cada vez que son solicitadas. Por ejemplo, en cada request de nuestra aplicación estas son creadas de nuevo. Es conveniente para liberar de la memoria cuando se dejen de usar. 
+• Scoped: a diferencia del transient, mientras que estamos en el request y solicitamos una depencia esta será creada una sola vez hasta que el request muera.
+• Singleton: se creará una sola depencia para todo el ciclo de vida de nuestro proyecto o hasta que el servidor sea reiniciado. Ideal para inicializar clases con parámetros.
+
+```
