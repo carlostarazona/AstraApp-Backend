@@ -36,8 +36,6 @@ namespace Hospital.Api
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddTransient<IPacienteRepository, PacienteRepository>();
-            services.AddTransient<IPacienteService, PacienteService>();
 
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IUserService, UserService>();

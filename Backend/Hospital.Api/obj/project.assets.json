@@ -12073,11 +12073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Api\\Hospital.Api.csproj",
+      "projectUniqueName": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Api\\Hospital.Api.csproj",
       "projectName": "Hospital.Api",
-      "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Api\\Hospital.Api.csproj",
+      "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Api\\Hospital.Api.csproj",
       "packagesPath": "C:\\Users\\Carlos Tarazona\\.nuget\\packages\\",
-      "outputPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Api\\obj\\",
+      "outputPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12094,11 +12094,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\Hospital.Entity.csproj": {
-              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\Hospital.Entity.csproj"
+            "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\Hospital.Entity.csproj": {
+              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\Hospital.Entity.csproj"
             },
-            "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Service\\Hospital.Service.csproj": {
-              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Service\\Hospital.Service.csproj"
+            "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Service\\Hospital.Service.csproj": {
+              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Service\\Hospital.Service.csproj"
             }
           }
         }

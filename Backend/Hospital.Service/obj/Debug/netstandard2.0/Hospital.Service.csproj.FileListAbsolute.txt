@@ -110,3 +110,17 @@ D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hosp
 D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CopyComplete
 D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.dll
 D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.pdb
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.deps.json
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.dll
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.pdb
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.dll
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.dll
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.pdb
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csprojAssemblyReference.cache
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CoreCompileInputs.cache
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfoInputs.cache
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfo.cs
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CopyComplete
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.dll
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.pdb

@@ -2369,11 +2369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\Hospital.Entity.csproj",
+      "projectUniqueName": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\Hospital.Entity.csproj",
       "projectName": "Hospital.Entity",
-      "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\Hospital.Entity.csproj",
+      "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\Hospital.Entity.csproj",
       "packagesPath": "C:\\Users\\Carlos Tarazona\\.nuget\\packages\\",
-      "outputPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\obj\\",
+      "outputPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

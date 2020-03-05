@@ -5073,11 +5073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj",
+      "projectUniqueName": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj",
       "projectName": "Hospital.Repositoy",
-      "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj",
+      "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj",
       "packagesPath": "C:\\Users\\Carlos Tarazona\\.nuget\\packages\\",
-      "outputPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Repositoy\\obj\\",
+      "outputPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Repositoy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5094,8 +5094,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\Hospital.Entity.csproj": {
-              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\Hospital.Entity.csproj"
+            "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\Hospital.Entity.csproj": {
+              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\Hospital.Entity.csproj"
             }
           }
         }

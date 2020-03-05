@@ -5,7 +5,6 @@ namespace Hospital.Repositoy.dbcontext
 {
     public class ApplicationDbContext : DbContext
     {
-        public DbSet<Paciente> Pacientes { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<Schedule> Schedules { get; set; }
@@ -26,9 +25,9 @@ namespace Hospital.Repositoy.dbcontext
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Paciente>()
-                    .Property(p => p.Nombres)
-                    .HasColumnName("Nombres")
+            modelBuilder.Entity<User>()
+                    .Property(p => p.Name)
+                    .HasColumnName("Name")
                     .HasMaxLength(50)
                     .IsRequired();
 

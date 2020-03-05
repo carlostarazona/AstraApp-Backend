@@ -5092,11 +5092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Service\\Hospital.Service.csproj",
+      "projectUniqueName": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Service\\Hospital.Service.csproj",
       "projectName": "Hospital.Service",
-      "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Service\\Hospital.Service.csproj",
+      "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Service\\Hospital.Service.csproj",
       "packagesPath": "C:\\Users\\Carlos Tarazona\\.nuget\\packages\\",
-      "outputPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Service\\obj\\",
+      "outputPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5113,11 +5113,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\Hospital.Entity.csproj": {
-              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Entity\\Hospital.Entity.csproj"
+            "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\Hospital.Entity.csproj": {
+              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Entity\\Hospital.Entity.csproj"
             },
-            "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj": {
-              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj"
+            "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj": {
+              "projectPath": "D:\\TrabajoWeb_git\\Trabajo\\Astra-Backend\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj"
             }
           }
         }

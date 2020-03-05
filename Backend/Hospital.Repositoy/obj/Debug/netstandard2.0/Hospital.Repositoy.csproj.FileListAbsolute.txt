@@ -94,3 +94,15 @@ D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Ho
 D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csproj.CopyComplete
 D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.dll
 D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.pdb
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.deps.json
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.dll
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.pdb
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Entity.dll
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csprojAssemblyReference.cache
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csproj.CoreCompileInputs.cache
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.AssemblyInfoInputs.cache
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.AssemblyInfo.cs
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csproj.CopyComplete
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.dll
+D:\TrabajoWeb_git\Trabajo\Astra-Backend\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.pdb
