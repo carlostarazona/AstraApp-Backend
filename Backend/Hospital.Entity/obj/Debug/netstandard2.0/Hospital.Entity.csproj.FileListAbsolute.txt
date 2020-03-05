@@ -1,0 +1,72 @@
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\Administrador\Pictures\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+c:\Users\Administrador\Desktop\Patro\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+D:\Ultimi\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+D:\Bloc Utiles\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+D:\TrabajoWeb_git\Trabajo\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb

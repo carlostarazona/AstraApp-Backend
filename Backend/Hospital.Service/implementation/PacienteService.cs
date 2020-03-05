@@ -1,0 +1,47 @@
+using System.Collections.Generic;
+using Hospital.Entity;
+using Hospital.Repositoy;
+
+namespace Hospital.Service.implementation
+{
+    public class PacienteService : IPacienteService
+    {
+
+        private IPacienteRepository pacienteRepository;
+        public PacienteService(IPacienteRepository pacienteRepository)
+        {
+            this.pacienteRepository=pacienteRepository;
+        }
+        
+        public bool Delete(int id)
+        {
+            return pacienteRepository.Delete(id);
+        }
+
+        public Paciente Get(int id)
+        {
+            return pacienteRepository.Get(id);
+        }
+
+        public IEnumerable<Paciente> GetAll()
+        {
+           return pacienteRepository.GetAll();
+        }
+
+        public IEnumerable<Paciente> Listarid(int id)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public bool Save(Paciente entity)
+        {
+            return pacienteRepository.Save(entity);
+        }
+
+        public bool Update(Paciente entity)
+        {
+            return pacienteRepository.Update(entity);
+        }
+        
+    }
+}
